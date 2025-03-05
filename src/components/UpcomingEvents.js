@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Papa from "papaparse"; // CSV parser
-
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const UpcomingEvents = () => {
   const [games, setGames] = useState([]);
@@ -37,12 +36,14 @@ const UpcomingEvents = () => {
 
                 <div>
 
+                <span className="badge bg-secondary fs-5">8th March, Saturday</span>
+
                 <h2 style={{fontSize: "60px", marginTop: "40px"}}>Club House, Arvind Sporcia </h2>
-                    <p>Board games are far, faar, FAAAR better than you think of them.</p>
+                    <p>Your Next Great Adventure Starts at Arvind Sprocia's Table!</p>
                     <hr style={{ marginTop: "10px", border: "0", height: "1px", background: "#ccc", width: "100%" }} />
                     <h2 style={{fontSize: "20px", marginTop: "40px"}}>Details: </h2>
                     <ul>
-                      <li>Date: 8th March, Sunday</li>
+                      <li>Date: 8th March, Saturday</li>
                       <li>Time: 5 PM - 8 PM</li>
                       <li>Charges: Rs 299 per head</li>
                       <li>Games Available: 35</li>
