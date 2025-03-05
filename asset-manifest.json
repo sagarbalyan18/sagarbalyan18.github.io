@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/getaboard/static/css/main.fda38cc2.css",
+    "main.js": "/getaboard/static/js/main.dd9a847b.js",
+    "static/js/453.29f9f6e4.chunk.js": "/getaboard/static/js/453.29f9f6e4.chunk.js",
+    "static/media/games.csv": "/getaboard/static/media/games.e5c24d85afc1323bd0db.csv",
+    "index.html": "/getaboard/index.html",
+    "main.fda38cc2.css.map": "/getaboard/static/css/main.fda38cc2.css.map",
+    "main.dd9a847b.js.map": "/getaboard/static/js/main.dd9a847b.js.map",
+    "453.29f9f6e4.chunk.js.map": "/getaboard/static/js/453.29f9f6e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda38cc2.css",
+    "static/js/main.dd9a847b.js"
+  ]
+}
