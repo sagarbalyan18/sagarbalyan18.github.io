@@ -48,6 +48,96 @@
       "BGGId": 10,
       "Name": "Root",
       "ImagePath": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__original/img/E0s2LvtFA1L5YKk-_44D4u2VD2s=/0x0/filters:format(jpeg)/pic4254509.jpg"
+    },
+    {
+      "BGGId": 11,
+      "Name": "Coup",
+      "ImagePath": "https://cf.geekdo-images.com/hLJxL1w1nKl8cP4k77hQZQ__original/img/ZmdVmpae3enWupXWYzYf-qole8w=/0x0/filters:format(jpeg)/pic160459.jpg"
+    },
+    {
+      "BGGId": 12,
+      "Name": "The Mind",
+      "ImagePath": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__original/img/8VjZEG278faO9JZwzce3v3EKssI=/0x0/filters:format(png)/pic3979766.png"
+    },
+    {
+      "BGGId": 13,
+      "Name": "Codenames",
+      "ImagePath": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__original/img/gcX_EfjsRpB5fI4Ug4XV73G4jGI=/0x0/filters:format(jpeg)/pic2582929.jpg"
+    },
+    {
+      "BGGId": 14,
+      "Name": "Taboo",
+      "ImagePath": "https://cf.geekdo-images.com/e8wVvax1VqQkgCu_AST5Aw__original/img/rOn-VZ2rUV05yQ2hfXyEeDsUma0=/0x0/filters:format(jpeg)/pic212946.jpg"
+    },
+    {
+      "BGGId": 15,
+      "Name": "Kingdomino",
+      "ImagePath": "https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__original/img/DDk3fDr0FkDpkYAcny5LeekB2qg=/0x0/filters:format(png)/pic3132685.png"
+    },
+    {
+      "BGGId": 16,
+      "Name": "Avalon",
+      "ImagePath": "https://cf.geekdo-images.com/RRt8rRwkuQtnAHsw9Yvxaw__original/img/ct5fg9kSR6Sfj5aS8FYtwP3J45c=/0x0/filters:format(jpeg)/pic223231.jpg"
+    },
+    {
+        "BGGId": 17,
+        "Name": "7 Wonders Duel",
+        "ImagePath": "https://cf.geekdo-images.com/WzNs1mA_o22ZWTR8fkLP2g__original/img/q_TrwF4VnXgW1dFQgtMJexSXOEA=/0x0/filters:format(jpeg)/pic3376065.jpg"
+    },
+    {
+        "BGGId": 18,
+        "Name": "Clank!: A Deck-Building Adventure",
+        "ImagePath": "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__original/img/cXqOdM3BLyIeRt0GP3M3V--gF1M=/0x0/filters:format(jpeg)/pic4449526.jpg"
+    },
+    {
+        "BGGId": 19,
+        "Name": "Pandemic",
+        "ImagePath": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__original/img/IsrvRLpUV1TEyZsO5rC-btXaPz0=/0x0/filters:format(jpeg)/pic1534148.jpg"
+    },
+    {
+        "BGGId": 20,
+        "Name": "Scotland Yard",
+        "ImagePath": "https://cf.geekdo-images.com/F7XFJr7DVaTm7fA71iA3_w__original/img/6dP6Z5hmsXCCAHVkULnZqCnatt4=/0x0/filters:format(jpeg)/pic353959.jpg"
+    },
+    {
+        "BGGId": 21,
+        "Name": "Exploding Kittens",
+        "ImagePath": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png"
+    },
+    {
+        "BGGId": 22,
+        "Name": "Pictureka",
+        "ImagePath": "https://cf.geekdo-images.com/G0o4pa3CMdU85KlKIaCRYg__original/img/vyyfVpdRGcqWxQwyYv1_ISIGq3M=/0x0/filters:format(jpeg)/pic1193858.jpg"
+    },
+    {
+        "BGGId": 23,
+        "Name": "Uno",
+        "ImagePath": "https://images-cdn.ubuy.co.in/6688e00f591ad62a777e2f44-uno-color-number-matching-card-game.jpg"
+    },
+    {
+        "BGGId": 24,
+        "Name": "The Game of Life",
+        "ImagePath": "https://cf.geekdo-images.com/c4S2XDRb_DCYCAV-ZAzDpg__original/img/23KgFL2BIq657VftWjAuxnrP-3s=/0x0/filters:format(jpeg)/pic288405.jpg"
+    },
+    {
+        "BGGId": 25,
+        "Name": "Monopoly",
+        "ImagePath": "https://www.toyworld.co.nz/cdn/shop/files/Monopoly-Board-Game-630509512638-C1009_ad541762-d9a6-41d2-9cbb-67ba54040c46.jpg?v=1732092701"
+    },
+    {
+        "BGGId": 26,
+        "Name": "Yogi",
+        "ImagePath": "https://cf.geekdo-images.com/u-jJShN_g2NU6MstgAliMQ__original/img/JtCTjeroO8bjbaUYzeE5DSqZWDg=/0x0/filters:format(jpeg)/pic3484957.jpg"
+    },
+    {
+        "BGGId": 27,
+        "Name": "Cockroach Poker",
+        "ImagePath": "https://cf.geekdo-images.com/lHadyVLPUQfNz_qV6MMp_Q__original/img/qN8xusrxWyTJfgq1gTUWrdE4B2I=/0x0/filters:format(jpeg)/pic3218988.jpg"
+    },
+    {
+        "BGGId": 28,
+        "Name": "Spicy",
+        "ImagePath": "https://cf.geekdo-images.com/eLJJ7f5I106enEFkSfxmnQ__original/img/dH1wpQ36ZJDG-uur4JAAcoz8CY8=/0x0/filters:format(png)/pic5181748.png"
     }
   ]
   
