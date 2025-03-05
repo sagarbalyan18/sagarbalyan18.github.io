@@ -51,8 +51,8 @@ const UpcomingEvents = () => {
                     <h2 style={{fontSize: "20px", marginTop: "40px"}}>Games List for the Event: </h2>
 
                     <div style={{ 
-                      display: "grid", 
-                      gridTemplateColumns: "repeat(auto-fit, minmax(clamp(100px, 25%, 200px), 1fr))", // 🔹 More responsive grid
+                      display: "flex", 
+                      flexWrap: "wrap",
                       gap: "30px",
                       justifyContent: "center",
                       padding: "20px"
