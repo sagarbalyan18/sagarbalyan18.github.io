@@ -57,3 +57,13 @@ p {
 li {
   margin-top: 10px;
 }
+
+@media (max-width: 768px) {
+  h2 {
+    font-size: 30px !important;
+    text-align: center !important;
+  }
+  ul {
+    padding-left: 20px;
+  }
+}

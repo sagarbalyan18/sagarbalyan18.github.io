@@ -32,7 +32,8 @@ const UpcomingEvents = () => {
 
         <div>
               {/* Game Details Section */}
-              <div style={{ display: "flex", gap: "40px", padding: "20px" }}>
+              <div style={{ display: "flex",
+              flexWrap: "wrap", gap: "40px", padding: "20px" }}>
 
                 <div>
 
@@ -51,7 +52,7 @@ const UpcomingEvents = () => {
 
                     <div style={{ 
                       display: "grid", 
-                      gridTemplateColumns: "repeat(5, 1fr)", // 4 items per row
+                      gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))", // 🔹 Adjusts dynamically
                       gap: "50px",
                       justifyContent: "center",
                       padding: "20px"
