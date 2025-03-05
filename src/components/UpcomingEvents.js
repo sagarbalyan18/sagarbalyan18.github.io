@@ -18,7 +18,7 @@ const UpcomingEvents = () => {
       <div
         style={{
           width: "100%",
-          background: `linear-gradient(to right, black 10%, rgba(0, 0, 0, 0.85) 60%, transparent 80%), url(https://catanuniverse.com/wp-content/uploads/2019/08/Catan_1920x1080.jpg)`,
+          background: `linear-gradient(to right, rgba(0, 0, 0, 0.75) 50%, rgba(0, 0, 0, 0.9) 80%), url(https://catanuniverse.com/wp-content/uploads/2019/08/Catan_1920x1080.jpg)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundAttachment: "fixed",  // 🔹 Makes background stay in place when scrolling
@@ -52,19 +52,19 @@ const UpcomingEvents = () => {
 
                     <div style={{ 
                       display: "grid", 
-                      gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))", // 🔹 Adjusts dynamically
-                      gap: "50px",
+                      gridTemplateColumns: "repeat(auto-fit, minmax(clamp(100px, 25%, 200px), 1fr))", // 🔹 More responsive grid
+                      gap: "30px",
                       justifyContent: "center",
                       padding: "20px"
                     }}>
                       {games.map((game, index) => (
-                        <div key={index} style={{ textAlign: "center" }}>
+                        <div key={index} style={{ textAlign: "center"}}>
                           <img
                             src={game.ImagePath}
                             width="200"
                             height="200"
                             alt={game.Name}
-                            style={{ borderRadius: "8px", objectFit: "cover" }}
+                            style={{ borderRadius: "8px", objectFit: "cover", }}
                           />
                           <p style={{ marginTop: "25px", fontSize: "14px" }}>{game.Name}</p>
                         </div>
